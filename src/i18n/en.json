@@ -1,0 +1,4 @@
+{
+  "%n files sent (%1).": { "one": "%n file sent (%1).", "other": "%n files sent (%1)." },
+  "%n files would be sent (%1).": { "one": "%n file would be sent (%1).", "other": "%n files would be sent (%1)." }
+}

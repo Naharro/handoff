@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="SendPanel.qml">SendPanel.qml</file>
+        <file alias="ReceivePanel.qml">ReceivePanel.qml</file>
+        <file alias="ActionButton.qml">ActionButton.qml</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+        <file alias="i18n/es.json">i18n/es.json</file>
+        <file alias="skill/SKILL.md">skill/SKILL.md</file>
+    </qresource>
+</RCC>

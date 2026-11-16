@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Handoff
+Comment=Send folders to another laptop over Wi-Fi with rsync
+Comment[es]=Envía carpetas a otro portátil por wifi con rsync
+Comment[es_MX]=Envía carpetas a otra laptop por wifi con rsync
+Exec=handoff open %F
+Icon=handoff
+Terminal=false
+Categories=Utility;Network;FileTransfer;
+Keywords=rsync;ssh;sync;transfer;copy;laptop;
+StartupWMClass=handoff
